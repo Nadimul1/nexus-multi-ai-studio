@@ -1,0 +1,9 @@
+
+{
+  "name": "Nexus Multi-AI Studio",
+  "description": "A comprehensive creative workspace powered by Google Gemini, featuring advanced text generation, image creation, video production, and text-to-speech capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
